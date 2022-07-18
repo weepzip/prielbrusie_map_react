@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -35,4 +35,55 @@
   to {
     transform: rotate(360deg);
   }
+}
+.leaflet-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.sidebar-wrapper {
+  display: none;
+  position: fixed;
+  background-color: none;
+  width: 400px;
+  z-index: 1000;
+  left: 10px;
+  top: 10px;
+  bottom: 10px;
+}
+
+#window_wrapper {
+  z-index: 2000;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: auto;
+  height: auto;
+}
+
+/* #sidebar-open-btn {
+  display: block;
+  position: fixed;
+  width: 80px;
+  height: 30px;
+  left: 10px;
+  top: 10px;
+  z-index: 1000;
+  background-color: white;
+  border-radius: 5px;
+  border: solid 2px rgb(80, 80, 80);
+  cursor: pointer;
+} */
+
+.modal {
+  display: block;
+  box-sizing: border-box;
+  position: fixed;
+  left: 0;
+  top: 0;
+  margin: 0;
+  padding: 0;
+  width: fit-content;
+  height: fit-content;
+  z-index: 10000;
 }

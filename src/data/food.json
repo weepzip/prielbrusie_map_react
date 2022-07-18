@@ -1,0 +1,1607 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-05-22T20:17:42Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7958458",
+        "amenity": "cafe",
+        "building": "commercial",
+        "name": "Ай",
+        "outdoor_seating": "yes",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.5066293,
+              43.2418846
+            ],
+            [
+              42.506602,
+              43.2418723
+            ],
+            [
+              42.5065817,
+              43.2418542
+            ],
+            [
+              42.5065705,
+              43.2418322
+            ],
+            [
+              42.5065697,
+              43.2418088
+            ],
+            [
+              42.5065795,
+              43.2417865
+            ],
+            [
+              42.5065986,
+              43.2417677
+            ],
+            [
+              42.5066251,
+              43.2417544
+            ],
+            [
+              42.506656,
+              43.2417481
+            ],
+            [
+              42.5066881,
+              43.2417495
+            ],
+            [
+              42.5067178,
+              43.2417584
+            ],
+            [
+              42.506742,
+              43.2417739
+            ],
+            [
+              42.5067579,
+              43.2417942
+            ],
+            [
+              42.506764,
+              43.2418172
+            ],
+            [
+              42.5067594,
+              43.2418403
+            ],
+            [
+              42.5067448,
+              43.2418612
+            ],
+            [
+              42.5067217,
+              43.2418774
+            ],
+            [
+              42.5066926,
+              43.2418873
+            ],
+            [
+              42.5066606,
+              43.2418898
+            ],
+            [
+              42.5066293,
+              43.2418846
+            ]
+          ]
+        ]
+      },
+      "id": "relation/7958458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/302136179",
+        "amenity": "cafe",
+        "building": "yes",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.4609919,
+              43.2898883
+            ],
+            [
+              42.4611025,
+              43.2898643
+            ],
+            [
+              42.4611308,
+              43.2899333
+            ],
+            [
+              42.4610202,
+              43.2899573
+            ],
+            [
+              42.4609919,
+              43.2898883
+            ]
+          ]
+        ]
+      },
+      "id": "way/302136179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317934027",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Заповедная сказка"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.5258699,
+              43.2457359
+            ],
+            [
+              42.5260437,
+              43.2456415
+            ],
+            [
+              42.5260896,
+              43.2456864
+            ],
+            [
+              42.5261382,
+              43.2457339
+            ],
+            [
+              42.526094,
+              43.2457579
+            ],
+            [
+              42.5261522,
+              43.2458149
+            ],
+            [
+              42.5260658,
+              43.2458617
+            ],
+            [
+              42.5260064,
+              43.2458037
+            ],
+            [
+              42.5259633,
+              43.2458271
+            ],
+            [
+              42.5258699,
+              43.2457359
+            ]
+          ]
+        ]
+      },
+      "id": "way/317934027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317934038",
+        "amenity": "cafe",
+        "building": "yes",
+        "building:levels": "1",
+        "smoking": "isolated"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.5228133,
+              43.244752
+            ],
+            [
+              42.5230449,
+              43.2446074
+            ],
+            [
+              42.523103,
+              43.2446568
+            ],
+            [
+              42.5230628,
+              43.2446819
+            ],
+            [
+              42.5230795,
+              43.244696
+            ],
+            [
+              42.5230537,
+              43.2447121
+            ],
+            [
+              42.522888,
+              43.2448155
+            ],
+            [
+              42.5228133,
+              43.244752
+            ]
+          ]
+        ]
+      },
+      "id": "way/317934038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/458730944",
+        "amenity": "cafe",
+        "building": "commercial",
+        "description": "пирожки",
+        "name": "Пирожковая"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.5072703,
+              43.2412997
+            ],
+            [
+              42.507111,
+              43.2412956
+            ],
+            [
+              42.5071147,
+              43.2412192
+            ],
+            [
+              42.507274,
+              43.2412234
+            ],
+            [
+              42.5072703,
+              43.2412997
+            ]
+          ]
+        ]
+      },
+      "id": "way/458730944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/744560601",
+        "amenity": "cafe",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.5230086,
+              43.2448294
+            ],
+            [
+              42.5230509,
+              43.2448009
+            ],
+            [
+              42.5230909,
+              43.2448323
+            ],
+            [
+              42.5230478,
+              43.2448603
+            ],
+            [
+              42.5230086,
+              43.2448294
+            ]
+          ]
+        ]
+      },
+      "id": "way/744560601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/954029840",
+        "amenity": "food_court",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42.5257879,
+              43.2457811
+            ],
+            [
+              42.5257463,
+              43.245742
+            ],
+            [
+              42.5259475,
+              43.2456267
+            ],
+            [
+              42.5259824,
+              43.2456639
+            ],
+            [
+              42.5258576,
+              43.2457342
+            ],
+            [
+              42.5259394,
+              43.2458133
+            ],
+            [
+              42.525867,
+              43.2458514
+            ],
+            [
+              42.5257879,
+              43.2457811
+            ]
+          ]
+        ]
+      },
+      "id": "way/954029840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612399054",
+        "amenity": "cafe",
+        "name": "Аушш",
+        "name:en": "Aush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5621025,
+          43.2462851
+        ]
+      },
+      "id": "node/612399054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/652128556",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5150656,
+          43.2564632
+        ]
+      },
+      "id": "node/652128556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/652128558",
+        "amenity": "cafe",
+        "name": "Сава"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5162311,
+          43.256075
+        ]
+      },
+      "id": "node/652128558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2403611912",
+        "amenity": "cafe",
+        "name": "Мир",
+        "name:de": "Welt-Café",
+        "name:en": "Mir cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4606517,
+          43.2892627
+        ]
+      },
+      "id": "node/2403611912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3063796464",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5155073,
+          43.2561072
+        ]
+      },
+      "id": "node/3063796464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3386387687",
+        "amenity": "cafe",
+        "name": "Кафе Экстрим",
+        "name:en": "Extreme cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.460724,
+          43.2893019
+        ]
+      },
+      "id": "node/3386387687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3783319937",
+        "amenity": "cafe",
+        "name": "Кафе Марат"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5636119,
+          43.2466253
+        ]
+      },
+      "id": "node/3783319937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3783319938",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5633504,
+          43.2463395
+        ]
+      },
+      "id": "node/3783319938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316732190",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Балкария",
+        "name:en": "Balkaria",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.46018,
+          43.3047962
+        ]
+      },
+      "id": "node/4316732190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4355204759",
+        "amenity": "cafe",
+        "name": "Free Ride"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4791491,
+          43.2655311
+        ]
+      },
+      "id": "node/4355204759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558269495",
+        "amenity": "cafe",
+        "name": "Кафе",
+        "name:de": "Café",
+        "name:ru": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4609657,
+          43.2742554
+        ]
+      },
+      "id": "node/4558269495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4595660389",
+        "amenity": "cafe",
+        "name": "Горец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4787048,
+          43.2667907
+        ]
+      },
+      "id": "node/4595660389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4689326621",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5165759,
+          43.2530721
+        ]
+      },
+      "id": "node/4689326621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4697243412",
+        "amenity": "cafe",
+        "name": "Абиль-Кала"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5506819,
+          43.2482532
+        ]
+      },
+      "id": "node/4697243412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5778338954",
+        "amenity": "cafe",
+        "name": "Гарабаши",
+        "name:en": "Garabashi",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4631209,
+          43.2987475
+        ]
+      },
+      "id": "node/5778338954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6074279342",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Фарида",
+        "name:en": "Farida",
+        "name:ru": "Фарида",
+        "official_status": "отель",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.52322,
+          43.2446883
+        ]
+      },
+      "id": "node/6074279342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6302895585",
+        "amenity": "cafe",
+        "name:en": "Freeride"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4823937,
+          43.2661921
+        ]
+      },
+      "id": "node/6302895585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6306009087",
+        "amenity": "cafe",
+        "name": "Байрам"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4608996,
+          43.2742651
+        ]
+      },
+      "id": "node/6306009087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6520559327",
+        "amenity": "cafe",
+        "name": "Марат",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5227238,
+          43.2455378
+        ]
+      },
+      "id": "node/6520559327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6576307290",
+        "amenity": "cafe",
+        "name": "Зимний рай",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4801295,
+          43.2658397
+        ]
+      },
+      "id": "node/6576307290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7681783701",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Friend's Cafe",
+        "name:en": "Friend's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5271682,
+          43.2495742
+        ]
+      },
+      "id": "node/7681783701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7737365814",
+        "amenity": "restaurant",
+        "cuisine": "local;russian",
+        "name": "Вираж",
+        "tourism": "hotel",
+        "website": "http://virage-azau.ru/rest.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4816073,
+          43.2667673
+        ]
+      },
+      "id": "node/7737365814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7737996895",
+        "amenity": "cafe",
+        "name": "Джан-Туган",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4791416,
+          43.2663921
+        ]
+      },
+      "id": "node/7737996895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7740455386",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Чегет"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5235387,
+          43.244993
+        ]
+      },
+      "id": "node/7740455386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7746314385",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Mingi tau",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5058404,
+          43.2634762
+        ]
+      },
+      "id": "node/7746314385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7755886806",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5635406,
+          43.2463705
+        ]
+      },
+      "id": "node/7755886806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7761875170",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4977573,
+          43.2411743
+        ]
+      },
+      "id": "node/7761875170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7770402486",
+        "amenity": "cafe",
+        "name": "Эдельвейс",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5236723,
+          43.2455779
+        ]
+      },
+      "id": "node/7770402486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7772897546",
+        "amenity": "cafe",
+        "name": "Кристалл",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4808438,
+          43.2663123
+        ]
+      },
+      "id": "node/7772897546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7772913211",
+        "amenity": "cafe",
+        "name": "People Havaet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4608892,
+          43.2742612
+        ]
+      },
+      "id": "node/7772913211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7779452634",
+        "amenity": "cafe",
+        "name": "Панорама 3500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4601375,
+          43.289508
+        ]
+      },
+      "id": "node/7779452634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7780429186",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4977971,
+          43.2412096
+        ]
+      },
+      "id": "node/7780429186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7781131785",
+        "amenity": "cafe",
+        "name": "Музыка гор"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5065732,
+          43.2416115
+        ]
+      },
+      "id": "node/7781131785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7781131786",
+        "amenity": "cafe",
+        "name": "У Визбора"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5065917,
+          43.2416709
+        ]
+      },
+      "id": "node/7781131786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7781131885",
+        "amenity": "cafe",
+        "name": "Лыжник"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5065954,
+          43.241752
+        ]
+      },
+      "id": "node/7781131885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7887920337",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Меридиан",
+        "phone": "+7 937 7434184",
+        "tourism": "hotel",
+        "website": "http://гостиница-меридиан.рф"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4788617,
+          43.2657356
+        ]
+      },
+      "id": "node/7887920337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888096495",
+        "amenity": "cafe",
+        "name": "Байрамук"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5102797,
+          43.2573463
+        ]
+      },
+      "id": "node/7888096495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888096497",
+        "amenity": "cafe",
+        "name": "Купол"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5153209,
+          43.2563037
+        ]
+      },
+      "id": "node/7888096497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888096499",
+        "amenity": "cafe",
+        "name": "У Сапиры"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5145686,
+          43.2564849
+        ]
+      },
+      "id": "node/7888096499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888096517",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5237404,
+          43.2451168
+        ]
+      },
+      "id": "node/7888096517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888096518",
+        "amenity": "cafe",
+        "name": "Семёрка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5229049,
+          43.2447631
+        ]
+      },
+      "id": "node/7888096518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888096519",
+        "amenity": "restaurant",
+        "cuisine": "regional;italian",
+        "name": "Когутай",
+        "name:en": "Kogytai",
+        "name:ru": "Когутай"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5233662,
+          43.2448886
+        ]
+      },
+      "id": "node/7888096519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888096520",
+        "amenity": "restaurant",
+        "name": "Kamin",
+        "name:en": "Kamin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5233461,
+          43.2455231
+        ]
+      },
+      "id": "node/7888096520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888096521",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Аяз",
+        "opening_hours": "Mo-Su 08:30-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5231342,
+          43.2455153
+        ]
+      },
+      "id": "node/7888096521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888125022",
+        "amenity": "cafe",
+        "name": "Рахат"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5218615,
+          43.2533378
+        ]
+      },
+      "id": "node/7888125022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888125025",
+        "amenity": "cafe",
+        "name": "Ушба"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5178355,
+          43.2521911
+        ]
+      },
+      "id": "node/7888125025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888125026",
+        "amenity": "cafe",
+        "name": "Аламат"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5179374,
+          43.2543048
+        ]
+      },
+      "id": "node/7888125026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7903642185",
+        "addr:street": "Поляна Чегет",
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "name": "Чегет",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.523506,
+          43.2449833
+        ]
+      },
+      "id": "node/7903642185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7958526085",
+        "amenity": "cafe",
+        "cuisine": "mediterranean",
+        "internet_access": "wlan",
+        "name": "Чипер Азау",
+        "name:en": "Cheeper Azau",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4600355,
+          43.2742054
+        ]
+      },
+      "id": "node/7958526085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8446617717",
+        "amenity": "cafe",
+        "name": "Шамик"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5148122,
+          43.2567261
+        ]
+      },
+      "id": "node/8446617717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8446644717",
+        "amenity": "cafe",
+        "name": "Къочхар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5160863,
+          43.2561255
+        ]
+      },
+      "id": "node/8446644717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8494199417",
+        "amenity": "restaurant",
+        "name:en": "Chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.523862,
+          43.2469273
+        ]
+      },
+      "id": "node/8494199417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8498627017",
+        "addr:street": "Экотропа \"Чегетский поворот - водопад Азау\"",
+        "amenity": "cafe",
+        "name:en": "issi.coffee",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.522269,
+          43.2451407
+        ]
+      },
+      "id": "node/8498627017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8933121617",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Кьочхар",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5160523,
+          43.256295
+        ]
+      },
+      "id": "node/8933121617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9062776217",
+        "amenity": "cafe",
+        "name": "Solo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5285711,
+          43.2492902
+        ]
+      },
+      "id": "node/9062776217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9062794517",
+        "amenity": "fast_food",
+        "cuisine": "coffee_shop",
+        "name": "Maestro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.52408,
+          43.2463181
+        ]
+      },
+      "id": "node/9062794517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9063531517",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Люди"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5146122,
+          43.2515887
+        ]
+      },
+      "id": "node/9063531517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9070813217",
+        "amenity": "cafe",
+        "name": "Хрустальный родник"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5233223,
+          43.2410372
+        ]
+      },
+      "id": "node/9070813217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9081506017",
+        "amenity": "cafe",
+        "name": "Full House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4607062,
+          43.2894567
+        ]
+      },
+      "id": "node/9081506017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9081526517",
+        "amenity": "cafe",
+        "name": "Ice Peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4606799,
+          43.2893751
+        ]
+      },
+      "id": "node/9081526517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9081770818",
+        "amenity": "cafe",
+        "name": "София"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4601651,
+          43.2744422
+        ]
+      },
+      "id": "node/9081770818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9081880834",
+        "amenity": "cafe",
+        "name": "Тау"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4790377,
+          43.2661458
+        ]
+      },
+      "id": "node/9081880834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9082163217",
+        "amenity": "fast_food",
+        "cuisine": "coffee_shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5120665,
+          43.2576257
+        ]
+      },
+      "id": "node/9082163217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415240809",
+        "amenity": "cafe",
+        "name": "Fat Climber"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4788026,
+          43.2660559
+        ]
+      },
+      "id": "node/9415240809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415240810",
+        "amenity": "cafe",
+        "name": "Взлёт"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4768782,
+          43.2658411
+        ]
+      },
+      "id": "node/9415240810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415240812",
+        "amenity": "cafe",
+        "name": "Нурэль",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4790373,
+          43.2666809
+        ]
+      },
+      "id": "node/9415240812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415240815",
+        "amenity": "cafe",
+        "name": "Три сестры",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4788858,
+          43.26597
+        ]
+      },
+      "id": "node/9415240815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415240816",
+        "amenity": "cafe",
+        "name": "Мангал"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4790212,
+          43.2659544
+        ]
+      },
+      "id": "node/9415240816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415247519",
+        "amenity": "cafe",
+        "name": "Светлана"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4786793,
+          43.2659026
+        ]
+      },
+      "id": "node/9415247519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415247520",
+        "amenity": "cafe",
+        "name": "Вертикаль",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4791728,
+          43.2659134
+        ]
+      },
+      "id": "node/9415247520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415247541",
+        "amenity": "cafe",
+        "name": "Огонёк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4797039,
+          43.2660755
+        ]
+      },
+      "id": "node/9415247541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415247545",
+        "amenity": "cafe",
+        "name": "Coffee 5642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4793324,
+          43.2662137
+        ]
+      },
+      "id": "node/9415247545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415247559",
+        "amenity": "cafe",
+        "name": "Ice Palace",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4802725,
+          43.2659368
+        ]
+      },
+      "id": "node/9415247559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9415247562",
+        "amenity": "cafe",
+        "name": "Таурух",
+        "official_status": "ru:гостевой комплекс",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4858461,
+          43.2650589
+        ]
+      },
+      "id": "node/9415247562"
+    }
+  ]
+}

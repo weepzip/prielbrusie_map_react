@@ -1,0 +1,241 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Бугельный подьёмник",
+        "id": "sl0001",
+        "place": "ГК Эльбрус-Азау",
+        "imageLink": "https://prielbrusie-ski.ru/wp-content/gallery/elbrus-azau-ropeways-slopes/elbrus-bugel.jpg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.47860886156559,
+            43.2669145729329
+          ],
+          [
+            42.47503213584423,
+            43.26845188778957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Бугельный подьёмник",
+        "id": "sl0002",
+        "place": "ГК Эльбрус-Азау",
+        "imageLink": "https://prielbrusie-ski.ru/wp-content/gallery/elbrus-azau-ropeways-slopes/elbrus-bugel.jpg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.47789338231087,
+            43.266555933788055
+          ],
+          [
+            42.47705653309822,
+            43.26698659347303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Маятниковая канатная дорога",
+        "id": "sl0003",
+        "place": "ГК Эльбрус-Азау",
+        "imageLink": "https://prielbrusie-ski.ru/wp-content/gallery/elbrus-azau-ropeways-slopes/elbrus-mayatnikovaya-1.jpg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.47932970523834,
+            43.265635034487666
+          ],
+          [
+            42.46124491095543,
+            43.27419163468148
+          ],
+          [
+            42.46071383357047,
+            43.28908872174886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Гондольная канатная дорога",
+        "id": "sl0004",
+        "place": "ГК Эльбрус-Азау",
+        "imageLink": "https://prielbrusie-ski.ru/wp-content/gallery/elbrus-azau-ropeways-slopes/elbrus-new-kanatka-001.jpg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.477831691503525,
+            43.26617507574559
+          ],
+          [
+            42.46048718690872,
+            43.2739734013981
+          ],
+          [
+            42.46036380529404,
+            43.289461626890926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Бугельный подъёмник",
+        "id": "sl0005",
+        "place": "ГК Эльбрус-Азау",
+        "imageLink": "https://prielbrusie-ski.ru/wp-content/gallery/elbrus-azau-ropeways-slopes/elbrus-mir.jpg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.4612395465374,
+            43.289402567459284
+          ],
+          [
+            42.464075312018394,
+            43.29833575293249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Кресельная канатная дорога",
+        "id": "sl0006",
+        "place": "ГК Эльбрус-Азау",
+        "imageLink": "https://prielbrusie-ski.ru/wp-content/gallery/elbrus-azau-ropeways-slopes/elbrus-new-kanatka-004.jpg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.46067628264427,
+            43.289623918009035
+          ],
+          [
+            42.460218630731106,
+            43.30429251412227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Парнокресельная канатная дорога",
+        "id": "sl0007",
+        "place": "ГК Чегет",
+        "imageLink": "https://prielbrusie-ski.ru/wp-content/gallery/cheget-ropeways-slopes/cheget-2kreselka-1.jpg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.52209048718214,
+            43.24530236560166
+          ],
+          [
+            42.507215291261666,
+            43.24150822401066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Однокресельная канатная дорога",
+        "id": "sl0008",
+        "place": "ГК Чегет",
+        "imageLink": "https://prielbrusie-ski.ru/wp-content/gallery/cheget-ropeways-slopes/cheget_0003.jpg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.522780150175095,
+            43.243928100347816
+          ],
+          [
+            42.506821006536484,
+            43.241136734686044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Однокресельная канатная дорога",
+        "id": "sl0009",
+        "place": "ГК Чегет",
+        "imageLink": "https://prielbrusie-ski.ru/wp-content/gallery/cheget-ropeways-slopes/cheget-2kreselka.jpg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.50717170536518,
+            43.24138976776588
+          ],
+          [
+            42.49833047389984,
+            43.241015591063444
+          ],
+          [
+            42.49800056219101,
+            43.241030245546746
+          ],
+          [
+            42.49778598546982,
+            43.24106053146769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Бугельный подъёмник",
+        "id": "sl0010",
+        "place": "ГК Чегет",
+        "imageLink": "https://prielbrusie-ski.ru/wp-content/gallery/cheget-ropeways-slopes/2007-04-120.jpg"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.49789830297232,
+            43.242152768489994
+          ],
+          [
+            42.49528784304857,
+            43.24038007158091
+          ]
+        ]
+      }
+    }
+  ]
+}

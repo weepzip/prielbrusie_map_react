@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Восточная вершина Эльбруса",
+        "color": "red",
+        "id": "mp0001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.45383262634277,
+          43.34677785824256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Западная вершина Эльбруса",
+        "color": "red",
+        "id": "mp0002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.43795394897461,
+          43.352519965127065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чегет",
+        "color": "red",
+        "id": "mp0003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.46438980102538,
+          43.24514020049586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Азау-Чегет-Гарабаши",
+        "color": "red",
+        "id": "mp0004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.44636535644531,
+          43.2432020009995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Азаугичечегеткара",
+        "color": "red",
+        "id": "mp0005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.484989166259766,
+          43.240826059428755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Пик Белиловского",
+        "color": "red",
+        "id": "mp0006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.538204193115234,
+          43.2198137022601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Мали Когутаи",
+        "color": "red",
+        "id": "mp0007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5376033782959,
+          43.21055596109311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Юсеньги",
+        "color": "red",
+        "id": "mp0008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.622060775756836,
+          43.21674879493529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Тегенеклибаши",
+        "color": "red",
+        "id": "mp0009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.587621212005615,
+          43.27451825081794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Артикколбаши",
+        "color": "red",
+        "id": "mp0010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.57408142089844,
+          43.276221117914154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Артикая",
+        "color": "red",
+        "id": "mp0011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.55562782287598,
+          43.27464323350957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Итколбаши",
+        "color": "red",
+        "id": "mp0012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.54026412963867,
+          43.271268610738765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сари-Колбаши-Терсик",
+        "color": "red",
+        "id": "mp0013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.54661560058593,
+          43.27879876184619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Терскол-Ак",
+        "color": "red",
+        "id": "mp0014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.52914905548096,
+          43.29407491867501
+        ]
+      }
+    }
+  ]
+}

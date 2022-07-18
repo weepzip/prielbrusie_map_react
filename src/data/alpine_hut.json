@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-05-22T20:42:55Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/93717447",
+        "ele": "3780",
+        "name": "Бочки",
+        "name:de": "Fässer",
+        "name:en": "Bochki",
+        "place": "locality",
+        "tourism": "alpine_hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4641787,
+          43.2987244
+        ]
+      },
+      "id": "node/93717447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1837689078",
+        "name": "Сердце Эльбруса",
+        "name:en": "Heart of Elbrus",
+        "name:ru": "Сердце Эльбруса",
+        "official_status": "отель-приют",
+        "tourism": "alpine_hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4593675,
+          43.303671
+        ]
+      },
+      "id": "node/1837689078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2112161552",
+        "name": "Ветер",
+        "tourism": "alpine_hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4632772,
+          43.2992455
+        ]
+      },
+      "id": "node/2112161552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6048894072",
+        "name": "Отель-бивуак LeapRus",
+        "phone": "+7 928 7110260",
+        "tourism": "alpine_hut",
+        "website": "http://leaprus.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4572122,
+          43.309804
+        ]
+      },
+      "id": "node/6048894072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515193212",
+        "name": "Приют Гарабаши",
+        "name:en": "Garabashi hut",
+        "tourism": "alpine_hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.4600825,
+          43.3060488
+        ]
+      },
+      "id": "node/6515193212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7888125024",
+        "name": "Динамо",
+        "name:en": "Dinamo",
+        "name:ru": "Динамо",
+        "official_status": "ru:тренировочная база",
+        "tourism": "alpine_hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5189406,
+          43.2525212
+        ]
+      },
+      "id": "node/7888125024"
+    }
+  ]
+}

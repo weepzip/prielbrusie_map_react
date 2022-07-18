@@ -1,25 +1,81 @@
-import logo from './logo.svg';
 import './App.css';
+import MapCont from './components/Map/MapCont';
+import React from 'react';
+import SidebarContainer from './components/Sidebar/SidebarContainer';
+import InfoWindowContainer from './components/InfoWindow/InfoWindowContainer';
+import { connect } from 'react-redux';
+import TileMenu from './components/common/TileMenu/TileMenu';
+import LayersOverlay from './components/common/Overlay/LayersOverlay';
+import Mapbox from './components/Mapbox/MapboxTest';
 
-function App() {
+import {
+  addObjectsOnMap,
+  removeObjectsFromMap,
+  openSidebar, 
+  closeSidebar,
+  openInfoWindow, 
+  closeInfoWindow,
+  setSelectedHotel, 
+  removeSelectedHotel,
+  setSelectedMarker,
+  removeSelectedMarker,
+  setMapCenter,
+  setMapRef,
+  setTileLayer,
+  toggleLayer } from "./redux/mapDataReducer";
+
+function App(props) {
+  let getColor = (place) => {
+    switch (place) {
+      case ("поляна Азау"): return props.leafletMapSettings.iconColor.azau;
+      case ("поляна Чегет"): return props.leafletMapSettings.iconColor.cheget;
+      case ("peak"): return props.leafletMapSettings.iconColor.mountain;
+      case ("selected"): return props.leafletMapSettings.iconColor.selected;
+      case ("lift"): return props.leafletMapSettings.iconColor.lift;
+      case ("track"): return props.leafletMapSettings.iconColor.track;
+      case ("footway"): return props.leafletMapSettings.iconColor.footway;
+      case ("hut"): return props.leafletMapSettings.iconColor.hut;
+      default: return props.leafletMapSettings.iconColor.town
+    }
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {props.layers.tiles[2].isChecked
+        ? <Mapbox {...props} getColor={getColor} />
+        : <MapCont {...props} getColor={getColor} />
+      }
+      <SidebarContainer {...props}/>
+      <InfoWindowContainer {...props} />
+      <TileMenu 
+        tiles={props.layers.tiles}
+        setTileLayer={props.setTileLayer}
+      />
+      <LayersOverlay
+        overlay={props.layers.overlay}
+        toggleLayer={props.toggleLayer}
+      />
     </div>
   );
 }
 
-export default App;
+let mapStateToProps = (state) => {
+  return {...state.mapData}
+};
+
+export default connect(mapStateToProps, {
+  addObjectsOnMap,
+  removeObjectsFromMap,
+  openSidebar,
+  closeSidebar, 
+  openInfoWindow, 
+  closeInfoWindow,
+  setSelectedHotel,
+  removeSelectedHotel, 
+  setSelectedMarker, 
+  removeSelectedMarker,
+  setMapCenter,
+  setMapRef,
+  setTileLayer,
+  toggleLayer,
+})(App);

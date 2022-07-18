@@ -1,0 +1,61 @@
+div {
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.popup {
+  width: auto;
+  height: auto;
+}
+
+.content {
+  width: auto;
+  height: auto;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 10px;
+}
+
+.image_wrap {
+  height: auto;
+  width: auto;
+  grid-column: 1;
+}
+
+#popup_image_preview {
+  width: 100px;
+  height: 150px;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.info {
+  width: 180px;
+  height: auto;
+  text-align: left;
+  line-height: normal;
+  grid-column: 2;
+}
+
+.name_wrap {
+  font-weight: 900;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.other_info {
+  color: #555;
+  font-size: 0.8rem;
+}
+
+.other_info p {
+  margin: 0;
+  margin-top: 5px;
+}
+
+.other_info p span {
+  font-weight: 700;
+}
